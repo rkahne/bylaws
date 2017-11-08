@@ -1,4 +1,4 @@
-#EXAMPLE  BYLAWS
+# EXAMPLE  BYLAWS
 
 ##  ARTICLE 1. PRINCIPLE NAME
 The name of this nonprofit Corporation shall be *NAME* and by such name shall transact business and do all things incidental or necessary to accomplish its corporate business and purpose.
