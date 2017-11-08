@@ -1,4 +1,4 @@
-#Civic Data Alliance Bylaws
+# Civic Data Alliance Bylaws
 
 This project's goal is to take an example bylaws template and modify it to fit our organization's needs. Entites responsible for the crafting of Civic Data Alliance bylaws are the Core Members and the Board.
 
